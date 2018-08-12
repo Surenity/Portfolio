@@ -1,0 +1,15 @@
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  color: #26B2A4;
+  margin-top: -10px;
+}
+
+body {
+  font-family: 'News Cycle', sans-serif;
+  font-size: 18px;
+}
+
+.nav-wrapper {
+  padding-left: 1em;
+  background-color: #000;
+}
